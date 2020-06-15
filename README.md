@@ -14,7 +14,7 @@ The goal of this project is apply the learnings about data wrangling, cleaning, 
 
 ## Hypothesis to Test: ¿Are American White Sharks More Aggressive?
 
-Throughout the project we are going to analyze if there have been more attacks by white sharks in the United States vs. those produced in other countries.
+Throughout the project we are going to analyze if there have been more attacks by white sharks in the United States vs. other countries (South Africa & Australia).
 
 
 ### Data Cleaning Goals
@@ -26,3 +26,12 @@ Throughout the project we are going to analyze if there have been more attacks b
 * Correct incorrect data types.
 * Rename columns
 * Vizualizing data
+
+### Resources
+
+* [Pandas Documentation] (https://pandas.pydata.org/pandas-docs/stable/)
+* [Pandas Tutorials] (https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+
+
+
+### Data Cleaning Goals
