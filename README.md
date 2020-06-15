@@ -1,7 +1,6 @@
 # Project-Pandas
 
-http://localhost:8888/view/Input/sharks_readme.jpg
-
+Input/Sharks_readme2.png
 
 ## ¿Son más agresivos los tiburones blancos americanos?
 
