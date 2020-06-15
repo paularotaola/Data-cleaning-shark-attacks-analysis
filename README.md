@@ -1,25 +1,28 @@
 # Shark-Attacks-Analysis
-## Data Cleaning with Pandas
 
-![Image of Sharks]
-(https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg)
+## Data Cleaning and Manipulation with Pandas
 
-
-## ¿Son más agresivos los tiburones blancos americanos?
-
-En este proyecto vamos a analizar si se han producido más ataques por tiburones blancos en Estados Unidos vs los producidos en otros países 
+![Image of Sharks] (https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg)
 
 
-### Hipotesis a demostrar
+## Overview
+
+The goal of this project is apply the learnings about data wrangling, cleaning, and manipulation with Pandas. The scope of this project will be based on a messy data set from Kaggle wich contains Shark Attacks.
 
 
-### Objetivos del Poryecto
 
-*  Importar librerias
-*  Dataset necesarios
-*  Exploración inicial
-*  Eliminacion de las columnas inecesarias
-*  Eliminar las filas vacías
-*  Limpiar los datos de las columnas
-*  Renombre columnas
-*  Re-establecer el index
+
+## Hypothesis to Test: ¿Are American White Sharks More Aggressive?
+
+Throughout the project we are going to analyze if there have been more attacks by white sharks in the United States vs. those produced in other countries.
+
+
+### Data Cleaning Goals
+
+* Import libraries
+* Examine data for potential issues.
+* Identify and fill in missing values.
+* Identify and correct incorrect values.
+* Correct incorrect data types.
+* Rename columns
+* Vizualizing data
