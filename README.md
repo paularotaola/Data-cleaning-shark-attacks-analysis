@@ -1,6 +1,9 @@
-# Project-Pandas
+# Shark-Attacks-Analysis
+## Data Cleaning with Pandas
 
-Input/Sharks_readme2.png
+![Image of Sharks]
+(https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg)
+
 
 ## ¿Son más agresivos los tiburones blancos americanos?
 
