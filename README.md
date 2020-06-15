@@ -2,7 +2,8 @@
 
 ## Data Cleaning and Manipulation with Pandas
 
-![Image of Sharks] (https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg)
+![Image of Sharks] <img src="https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg width="800" height="400">
+
 
 
 ## Overview
@@ -29,9 +30,5 @@ Throughout the project we are going to analyze if there have been more attacks b
 
 ### Resources
 
-* [Pandas Documentation] (https://pandas.pydata.org/pandas-docs/stable/)
-* [Pandas Tutorials] (https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
-
-
-
-### Data Cleaning Goals
+* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+* [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
