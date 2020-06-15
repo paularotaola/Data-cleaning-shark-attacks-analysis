@@ -1,8 +1,9 @@
-# Shark-Attacks-Analysis
+# Shark Attacks Analysis
+
 
 ## Data Cleaning and Manipulation with Pandas
 
-![Image of Sharks] <img src="https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg width="800" height="400">
+![Image of Sharks](https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks_readme.jpg)
 
 
 
