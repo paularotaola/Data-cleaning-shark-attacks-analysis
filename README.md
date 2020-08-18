@@ -26,8 +26,8 @@ Throughout the project we are going to analyze if there have been more attacks p
 * Identify and fill in missing values.
 * Identify and correct incorrect values.
 * Correct incorrect data types.
-* Rename columns
-* Vizualize data
+* Rename and reorder columns.
+* Vizualize data.
 
 ### Resources
 
