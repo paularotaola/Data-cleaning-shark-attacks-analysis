@@ -3,7 +3,7 @@
 
 ## Data Cleaning and Manipulation with Pandas
 
-![Image of Sharks](https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/shark-readme.jpg)
+![Image of Sharks](https://github.com/paularotaola/Shark-Attacks-Analysis/blob/master/Input/sharks-readme.jpg)
 
 
 
